@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "KingKaonix",
+  "repo": "container-ltv7jy8",
+  "name": "KingKaonix",
+  "email": "joemulik@gmail.com",
+}
